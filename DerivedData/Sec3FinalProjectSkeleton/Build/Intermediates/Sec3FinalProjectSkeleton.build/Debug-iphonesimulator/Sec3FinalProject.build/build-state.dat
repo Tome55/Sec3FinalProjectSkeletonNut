@@ -1,0 +1,485 @@
+TSec3FinalProject
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Info.plist Sec3FinalProject/Sec3FinalProject-Info.plist
+cProcessPCH /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch.gch Sec3FinalProject/Sec3FinalProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/RestuarantMapViewController.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/main.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/AddNewRestuarantViewController.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Sec3FinalProjectAppDelegate.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Restuarant.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/LocationDetailViewController.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject normal i386
+cGenerateDSYMFile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app.dSYM /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject
+cCopyStringsFile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/InfoPlist.strings Sec3FinalProject/en.lproj/InfoPlist.strings
+cCompileXIB /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/MainWindow.xib
+cCompileXIB /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/FirstView.xib
+cCompileXIB /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/SecondView.xib
+cCpResource Sec3FinalProject/../restuarants.sqlite DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/restuarants.sqlite
+cCompileXIB /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.xib
+cTouch /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E0F2B810000000000000110
+t1309617025
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D93EC6F00000000000778F0
+t1301539951
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D93EC6700000000000001D0
+t1301539943
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D99FAC100000000000002FE
+t1301936833
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D99FACD000000000018CAB0
+t1301936845
+s1624752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sqlite3.h
+c000000004D93DBE70000000000045296
+t1301535719
+s283286
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libsqlite3.0.dylib
+c000000004D93DBFD0000000000099500
+t1301535741
+s627968
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/AddNewRestuarantViewController.o
+t1312703913
+s49728
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/LocationDetailViewController.o
+t1312705104
+s54192
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Restuarant.o
+t1312703913
+s24576
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/RestuarantMapViewController.o
+t1312705104
+s51692
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Sec3FinalProject.LinkFileList
+c000000004E3E34A5000000000000055E
+t1312699557
+s1374
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Sec3FinalProjectAppDelegate.o
+t1312699559
+s58020
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/main.o
+t1312699559
+s3132
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch.gch
+t1312699559
+s12283312
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app
+t1312705105
+s272
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app.dSYM
+t1312705104
+s102
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Info.plist
+t1312699557
+s822
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/LocationDetailViewController.nib
+t1312705105
+s3963
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/PkgInfo
+t1312699557
+s8
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject
+t1312705104
+s62368
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/FirstView.nib
+t1312700755
+s6119
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/InfoPlist.strings
+t1312699560
+s42
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/MainWindow.nib
+t1312705105
+s3793
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/SecondView.nib
+t1312699561
+s1860
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/restuarants.sqlite
+t1312699560
+s131072
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/../restuarants.sqlite
+c000000004E3D77360000000000020000
+t1312651062
+s131072
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.h
+c000000004E3E394E0000000000000342
+t1312700750
+s834
+i<UIKit/UIKit.h>
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.m
+c000000004E3E45A80000000000000A04
+t1312703912
+s2564
+i"AddNewRestuarantViewController.h"
+i"Restuarant.h"
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.h
+c000000004E3E49D800000000000003F4
+t1312704984
+s1012
+i<UIKit/UIKit.h>
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.m
+c000000004E3E4A4F0000000000000A34
+t1312705103
+s2612
+i"LocationDetailViewController.h"
+i"Restuarant.h"
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.xib
+c000000004E3E4A4F00000000000047B1
+t1312705103
+s18353
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.h
+c000000004E3D8A6E000000000000039E
+t1312655982
+s926
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.m
+c000000004E3E45A80000000000001249
+t1312703912
+s4681
+i"Restuarant.h"
+i"Sec3FinalProjectAppDelegate.h"
+i<sqlite3.h>
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.h
+c000000004E3E186A00000000000001A6
+t1312692330
+s422
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.m
+c000000004E3E478C0000000000000F1F
+t1312704396
+s3871
+i"RestuarantMapViewController.h"
+i"Sec3FinalProjectAppDelegate.h"
+i"LocationDetailViewController.h"
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProject-Prefix.pch
+c000000004E3D51930000000000000152
+t1312641427
+s338
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.h
+c000000004E3D649F000000000000022E
+t1312646303
+s558
+i<UIKit/UIKit.h>
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.m
+c000000004E3E180A000000000000123E
+t1312692234
+s4670
+i"Sec3FinalProjectAppDelegate.h"
+i"Restuarant.h"
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/FirstView.xib
+c000000004E3E389800000000000074FD
+t1312700568
+s29949
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/InfoPlist.strings
+c000000004E3D5193000000000000002D
+t1312641427
+s45
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/MainWindow.xib
+c000000004E3E491A0000000000003F37
+t1312704794
+s16183
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/SecondView.xib
+c000000004E3E186600000000000021F5
+t1312692326
+s8693
+
+N/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/main.m
+c000000004E3D51930000000000000170
+t1312641427
+s368
+i<UIKit/UIKit.h>
+
+NSec3FinalProject/Sec3FinalProject-Info.plist
+c000000004E3D519300000000000004A6
+t1312641427
+s1190
+
+CBuild AST from /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.m
+r0
+
+CBuild AST from /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.m
+r0
+
+CBuild AST from /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.m
+r0
+
+CBuild AST from /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.m
+r0
+
+CBuild AST from /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.m
+r0
+
+CBuild AST from /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies172998cf82eeb341^e21d9ccf82eeb341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/AddNewRestuarantViewController.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s334396712.752459
+e334396713.043829
+r1
+xCompileC
+xDerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/AddNewRestuarantViewController.o
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.mbbd4c0287deeb341^a4380b297deeb341^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.m0000000000000000^3121"CompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/AddNewRestuarantViewController.o Sec3FinalProject/AddNewRestuarantViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-generated-files.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-own-target-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-all-target-headers.hmap -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-project-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources/i386 -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources -F/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -include /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch -c /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/AddNewRestuarantViewController.m -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/AddNewRestuarantViewController.o
+
+CCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/LocationDetailViewController.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s334397904.479304
+e334397904.609415
+r1
+xCompileC
+xDerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/LocationDetailViewController.o
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.m1adc7ad081eeb341^08029cd081eeb341^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.m0000000000000000^3113"CompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/LocationDetailViewController.o Sec3FinalProject/LocationDetailViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-generated-files.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-own-target-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-all-target-headers.hmap -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-project-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources/i386 -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources -F/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -include /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch -c /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.m -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/LocationDetailViewController.o
+
+CCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Restuarant.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s334396712.753687
+e334396713.044237
+r1
+xCompileC
+xDerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Restuarant.o
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.m7a1dc1287deeb341^00520b297deeb341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.m0000000000000000^3041"CompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Restuarant.o Sec3FinalProject/Restuarant.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-generated-files.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-own-target-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-all-target-headers.hmap -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-project-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources/i386 -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources -F/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -include /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch -c /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Restuarant.m -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Restuarant.o
+
+CCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/RestuarantMapViewController.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s334397904.478704
+e334397904.603019
+r1
+xCompileC
+xDerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/RestuarantMapViewController.o
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.mefc67ad081eeb341^035e9ad081eeb341^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.m0000000000000000^3109"CompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/RestuarantMapViewController.o Sec3FinalProject/RestuarantMapViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-generated-files.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-own-target-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-all-target-headers.hmap -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-project-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources/i386 -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources -F/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -include /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch -c /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/RestuarantMapViewController.m -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/RestuarantMapViewController.o
+
+CCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Sec3FinalProjectAppDelegate.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s334392359.565038
+e334392359.891980
+r1
+xCompileC
+xDerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Sec3FinalProjectAppDelegate.o
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.m73f490276ceeb341^b669e4276ceeb341^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.m0000000000000000^3109"CompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Sec3FinalProjectAppDelegate.o Sec3FinalProject/Sec3FinalProjectAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-generated-files.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-own-target-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-all-target-headers.hmap -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-project-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources/i386 -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources -F/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -include /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch -c /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProjectAppDelegate.m -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Sec3FinalProjectAppDelegate.o
+
+CCompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/main.o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s334392359.564989
+e334392359.642416
+r1
+xCompileC
+xDerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/main.o
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/main.m63f090276ceeb341^3084a4276ceeb341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/main.m0000000000000000^3017"CompileC DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/main.o Sec3FinalProject/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-generated-files.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-own-target-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-all-target-headers.hmap -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-project-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources/i386 -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources -F/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -include /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch -c /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/main.m -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.xib
+s334397904.693963
+e334397905.614436
+r1
+xCompileXIB
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.xib80b6b1d081eeb341^12509dd181eeb341^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.xib0000000000000000^787"CompileXIB Sec3FinalProject/LocationDetailViewController.xib    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/LocationDetailViewController.nib /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/LocationDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/FirstView.xib
+s334393551.506169
+e334393555.919698
+r1
+xCompileXIB
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/FirstView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compiling /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/FirstView.xibb8b181cf70eeb341^7671ebd370eeb341^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/FirstView.xib0000000000000000^757"CompileXIB Sec3FinalProject/en.lproj/FirstView.xib    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/FirstView.nib /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/MainWindow.xib
+s334397904.692865
+e334397905.618876
+r1
+xCompileXIB
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/MainWindow.xib4889b1d081eeb341^b56f9ed181eeb341^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/MainWindow.xib0000000000000000^760"CompileXIB Sec3FinalProject/en.lproj/MainWindow.xib    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/MainWindow.nib /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/SecondView.xib
+s334392360.154229
+e334392361.603531
+r1
+xCompileXIB
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/SecondView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/SecondView.xib470328286ceeb341^67819a296ceeb341^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/SecondView.xib0000000000000000^760"CompileXIB Sec3FinalProject/en.lproj/SecondView.xib    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/SecondView.nib /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/InfoPlist.strings Sec3FinalProject/en.lproj/InfoPlist.strings
+s334392360.152665
+e334392360.204563
+r1
+xCopyStringsFile
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/InfoPlist.strings
+xSec3FinalProject/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy Sec3FinalProject/en.lproj/InfoPlist.strings215627286ceeb341^fcfb38286ceeb341^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/en.lproj/InfoPlist.strings0000000000000000^665"CopyStringsFile DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj/InfoPlist.strings Sec3FinalProject/en.lproj/InfoPlist.strings    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/en.lproj -- Sec3FinalProject/en.lproj/InfoPlist.strings
+
+CCpResource Sec3FinalProject/../restuarants.sqlite DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/restuarants.sqlite
+s334392360.205830
+e334392360.210396
+r1
+xCpResource
+xSec3FinalProject/../restuarants.sqlite
+xDerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/restuarants.sqlite
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/restuarants.sqlite5fce34286ceeb341^920839286ceeb341^---0#0#0#-19%DVTDocumentLocation2@181"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/restuarants.sqlite0000204d2205f041^691"CpResource Sec3FinalProject/../restuarants.sqlite DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/restuarants.sqlite    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/../restuarants.sqlite /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app
+
+CGenerateDSYMFile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app.dSYM /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject
+s334397904.645728
+e334397904.689619
+r1
+xGenerateDSYMFile
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app.dSYM
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Generating /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app.dSYMdc63a5d081eeb341^118bb0d081eeb341^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app.dSYM/0000000000000000^770"GenerateDSYMFile DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app.dSYM DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app.dSYM
+
+CLd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject normal i386
+s334397904.610679
+e334397904.644539
+r1
+xLd
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Link /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject81799cd081eeb341^5303a5d081eeb341^---0#0#0#--1393"Ld DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject normal i386    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -F/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -filelist /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Objects-normal/i386/Sec3FinalProject.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework MapKit -framework CoreLocation -lsqlite3.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Sec3FinalProject
+
+CProcessInfoPlistFile /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Info.plist Sec3FinalProject/Sec3FinalProject-Info.plist
+s334392357.635608
+e334392357.660998
+r1
+xProcessInfoPlistFile
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Info.plist
+xSec3FinalProject/Sec3FinalProject-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process Sec3FinalProject/Sec3FinalProject-Info.plist78d2a2256ceeb341^a246a9256ceeb341^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProject-Info.plist0000000000000000^826"ProcessInfoPlistFile DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Info.plist Sec3FinalProject/Sec3FinalProject-Info.plist    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sec3FinalProject/Sec3FinalProject-Info.plist -genpkginfo /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app/Info.plist
+
+CProcessPCH /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch.gch Sec3FinalProject/Sec3FinalProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s334392357.664497
+e334392359.563571
+r1
+xProcessPCH
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch.gch
+xSec3FinalProject/Sec3FinalProject-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile Sec3FinalProject/Sec3FinalProject-Prefix.pchb249aa256ceeb341^634690276ceeb341^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProject-Prefix.pch0000000000000000^2838"ProcessPCH DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch.gch Sec3FinalProject/Sec3FinalProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-generated-files.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-own-target-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-all-target-headers.hmap -iquote /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/Sec3FinalProject-project-headers.hmap -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources/i386 -I/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Intermediates/Sec3FinalProjectSkeleton.build/Debug-iphonesimulator/Sec3FinalProject.build/DerivedSources -F/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator -c /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/Sec3FinalProject/Sec3FinalProject-Prefix.pch -o /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/PrecompiledHeaders/Sec3FinalProject-Prefix-ddzawjkggzixrabmtrqvwzafdcgw/Sec3FinalProject-Prefix.pch.gch
+
+CProcessPCH /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Index/PrecompiledHeaders/Sec3FinalProject-Prefix-gorpempkiismksfwsxuhyoooactf_ast/Sec3FinalProject-Prefix.pch.pth Sec3FinalProject/Sec3FinalProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app
+s334397905.621761
+e334397905.628430
+r1
+xTouch
+x/Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Touch /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app753b9fd181eeb341^cae0a0d181eeb341^---0#0#0#--460"Touch DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app    cd /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/admin/Dropbox/MMiOS/Sec3FinalProjectSkeleton/DerivedData/Sec3FinalProjectSkeleton/Build/Products/Debug-iphonesimulator/Sec3FinalProject.app
+

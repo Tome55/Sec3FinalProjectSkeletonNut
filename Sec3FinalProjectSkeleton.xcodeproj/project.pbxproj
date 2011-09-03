@@ -1,0 +1,358 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		360C184F13ED891300749C13 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 360C184E13ED891300749C13 /* UIKit.framework */; };
+		360C185113ED891300749C13 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 360C185013ED891300749C13 /* Foundation.framework */; };
+		360C185313ED891300749C13 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 360C185213ED891300749C13 /* CoreGraphics.framework */; };
+		360C185913ED891300749C13 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 360C185713ED891300749C13 /* InfoPlist.strings */; };
+		360C185C13ED891300749C13 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 360C185B13ED891300749C13 /* main.m */; };
+		360C185F13ED891300749C13 /* Sec3FinalProjectAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 360C185E13ED891300749C13 /* Sec3FinalProjectAppDelegate.m */; };
+		360C186213ED891300749C13 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 360C186013ED891300749C13 /* MainWindow.xib */; };
+		360C186513ED891300749C13 /* AddNewRestuarantViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 360C186413ED891300749C13 /* AddNewRestuarantViewController.m */; };
+		360C186813ED891300749C13 /* RestuarantMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 360C186713ED891300749C13 /* RestuarantMapViewController.m */; };
+		360C186B13ED891300749C13 /* FirstView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 360C186913ED891300749C13 /* FirstView.xib */; };
+		360C186E13ED891300749C13 /* SecondView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 360C186C13ED891300749C13 /* SecondView.xib */; };
+		360C187513ED943E00749C13 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 360C187413ED943E00749C13 /* libsqlite3.0.dylib */; };
+		360C187813ED98A300749C13 /* Restuarant.m in Sources */ = {isa = PBXBuildFile; fileRef = 360C187713ED98A300749C13 /* Restuarant.m */; };
+		360C187A13ED998D00749C13 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 360C187913ED998D00749C13 /* CoreLocation.framework */; };
+		360C187C13ED999300749C13 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 360C187B13ED999300749C13 /* MapKit.framework */; };
+		360C188613EDA71300749C13 /* restuarants.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 360C188513EDA71300749C13 /* restuarants.sqlite */; };
+		360C189F13EDC8E000749C13 /* LocationDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 360C189D13EDC8E000749C13 /* LocationDetailViewController.m */; };
+		360C18A013EDC8E000749C13 /* LocationDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 360C189E13EDC8E000749C13 /* LocationDetailViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		360C184A13ED891300749C13 /* Sec3FinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sec3FinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		360C184E13ED891300749C13 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		360C185013ED891300749C13 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		360C185213ED891300749C13 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		360C185613ED891300749C13 /* Sec3FinalProject-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Sec3FinalProject-Info.plist"; sourceTree = "<group>"; };
+		360C185813ED891300749C13 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		360C185A13ED891300749C13 /* Sec3FinalProject-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sec3FinalProject-Prefix.pch"; sourceTree = "<group>"; };
+		360C185B13ED891300749C13 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		360C185D13ED891300749C13 /* Sec3FinalProjectAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sec3FinalProjectAppDelegate.h; sourceTree = "<group>"; };
+		360C185E13ED891300749C13 /* Sec3FinalProjectAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sec3FinalProjectAppDelegate.m; sourceTree = "<group>"; };
+		360C186113ED891300749C13 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		360C186313ED891300749C13 /* AddNewRestuarantViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddNewRestuarantViewController.h; sourceTree = "<group>"; };
+		360C186413ED891300749C13 /* AddNewRestuarantViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddNewRestuarantViewController.m; sourceTree = "<group>"; };
+		360C186713ED891300749C13 /* RestuarantMapViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestuarantMapViewController.m; sourceTree = "<group>"; };
+		360C186A13ED891300749C13 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FirstView.xib; sourceTree = "<group>"; };
+		360C186D13ED891300749C13 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondView.xib; sourceTree = "<group>"; };
+		360C187413ED943E00749C13 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		360C187613ED98A200749C13 /* Restuarant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Restuarant.h; sourceTree = "<group>"; };
+		360C187713ED98A300749C13 /* Restuarant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Restuarant.m; sourceTree = "<group>"; };
+		360C187913ED998D00749C13 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		360C187B13ED999300749C13 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		360C188513EDA71300749C13 /* restuarants.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; name = restuarants.sqlite; path = ../restuarants.sqlite; sourceTree = "<group>"; };
+		360C189C13EDC8E000749C13 /* LocationDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocationDetailViewController.h; sourceTree = "<group>"; };
+		360C189D13EDC8E000749C13 /* LocationDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationDetailViewController.m; sourceTree = "<group>"; };
+		360C189E13EDC8E000749C13 /* LocationDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LocationDetailViewController.xib; sourceTree = "<group>"; };
+		3669179213EE5006002CB1D0 /* RestuarantMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestuarantMapViewController.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		360C184713ED891300749C13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				360C187C13ED999300749C13 /* MapKit.framework in Frameworks */,
+				360C187A13ED998D00749C13 /* CoreLocation.framework in Frameworks */,
+				360C187513ED943E00749C13 /* libsqlite3.0.dylib in Frameworks */,
+				360C184F13ED891300749C13 /* UIKit.framework in Frameworks */,
+				360C185113ED891300749C13 /* Foundation.framework in Frameworks */,
+				360C185313ED891300749C13 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		360C183F13ED891300749C13 = {
+			isa = PBXGroup;
+			children = (
+				360C185413ED891300749C13 /* Sec3FinalProject */,
+				360C184D13ED891300749C13 /* Frameworks */,
+				360C184B13ED891300749C13 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		360C184B13ED891300749C13 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				360C184A13ED891300749C13 /* Sec3FinalProject.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		360C184D13ED891300749C13 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				360C187B13ED999300749C13 /* MapKit.framework */,
+				360C187913ED998D00749C13 /* CoreLocation.framework */,
+				360C187413ED943E00749C13 /* libsqlite3.0.dylib */,
+				360C184E13ED891300749C13 /* UIKit.framework */,
+				360C185013ED891300749C13 /* Foundation.framework */,
+				360C185213ED891300749C13 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		360C185413ED891300749C13 /* Sec3FinalProject */ = {
+			isa = PBXGroup;
+			children = (
+				360C185D13ED891300749C13 /* Sec3FinalProjectAppDelegate.h */,
+				360C185E13ED891300749C13 /* Sec3FinalProjectAppDelegate.m */,
+				360C186013ED891300749C13 /* MainWindow.xib */,
+				3669179413EE5400002CB1D0 /* Models */,
+				3669179313EE53E9002CB1D0 /* Controllers */,
+				360C185513ED891300749C13 /* Supporting Files */,
+				3669179513EE5412002CB1D0 /* Resources */,
+			);
+			path = Sec3FinalProject;
+			sourceTree = "<group>";
+		};
+		360C185513ED891300749C13 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				360C185613ED891300749C13 /* Sec3FinalProject-Info.plist */,
+				360C185713ED891300749C13 /* InfoPlist.strings */,
+				360C185A13ED891300749C13 /* Sec3FinalProject-Prefix.pch */,
+				360C185B13ED891300749C13 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3669179313EE53E9002CB1D0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				360C186313ED891300749C13 /* AddNewRestuarantViewController.h */,
+				360C186413ED891300749C13 /* AddNewRestuarantViewController.m */,
+				3669179213EE5006002CB1D0 /* RestuarantMapViewController.h */,
+				360C186713ED891300749C13 /* RestuarantMapViewController.m */,
+				360C186913ED891300749C13 /* FirstView.xib */,
+				360C186C13ED891300749C13 /* SecondView.xib */,
+				360C189C13EDC8E000749C13 /* LocationDetailViewController.h */,
+				360C189D13EDC8E000749C13 /* LocationDetailViewController.m */,
+				360C189E13EDC8E000749C13 /* LocationDetailViewController.xib */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		3669179413EE5400002CB1D0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				360C187613ED98A200749C13 /* Restuarant.h */,
+				360C187713ED98A300749C13 /* Restuarant.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		3669179513EE5412002CB1D0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				360C188513EDA71300749C13 /* restuarants.sqlite */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		360C184913ED891300749C13 /* Sec3FinalProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 360C187113ED891300749C13 /* Build configuration list for PBXNativeTarget "Sec3FinalProject" */;
+			buildPhases = (
+				360C184613ED891300749C13 /* Sources */,
+				360C184713ED891300749C13 /* Frameworks */,
+				360C184813ED891300749C13 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Sec3FinalProject;
+			productName = Sec3FinalProject;
+			productReference = 360C184A13ED891300749C13 /* Sec3FinalProject.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		360C184113ED891300749C13 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 360C184413ED891300749C13 /* Build configuration list for PBXProject "Sec3FinalProjectSkeleton" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 360C183F13ED891300749C13;
+			productRefGroup = 360C184B13ED891300749C13 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				360C184913ED891300749C13 /* Sec3FinalProject */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		360C184813ED891300749C13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				360C185913ED891300749C13 /* InfoPlist.strings in Resources */,
+				360C186213ED891300749C13 /* MainWindow.xib in Resources */,
+				360C186B13ED891300749C13 /* FirstView.xib in Resources */,
+				360C186E13ED891300749C13 /* SecondView.xib in Resources */,
+				360C188613EDA71300749C13 /* restuarants.sqlite in Resources */,
+				360C18A013EDC8E000749C13 /* LocationDetailViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		360C184613ED891300749C13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				360C185C13ED891300749C13 /* main.m in Sources */,
+				360C185F13ED891300749C13 /* Sec3FinalProjectAppDelegate.m in Sources */,
+				360C186513ED891300749C13 /* AddNewRestuarantViewController.m in Sources */,
+				360C186813ED891300749C13 /* RestuarantMapViewController.m in Sources */,
+				360C187813ED98A300749C13 /* Restuarant.m in Sources */,
+				360C189F13EDC8E000749C13 /* LocationDetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		360C185713ED891300749C13 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				360C185813ED891300749C13 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		360C186013ED891300749C13 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				360C186113ED891300749C13 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		360C186913ED891300749C13 /* FirstView.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				360C186A13ED891300749C13 /* en */,
+			);
+			name = FirstView.xib;
+			sourceTree = "<group>";
+		};
+		360C186C13ED891300749C13 /* SecondView.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				360C186D13ED891300749C13 /* en */,
+			);
+			name = SecondView.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		360C186F13ED891300749C13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		360C187013ED891300749C13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		360C187213ED891300749C13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Sec3FinalProject/Sec3FinalProject-Prefix.pch";
+				INFOPLIST_FILE = "Sec3FinalProject/Sec3FinalProject-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		360C187313ED891300749C13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Sec3FinalProject/Sec3FinalProject-Prefix.pch";
+				INFOPLIST_FILE = "Sec3FinalProject/Sec3FinalProject-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		360C184413ED891300749C13 /* Build configuration list for PBXProject "Sec3FinalProjectSkeleton" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				360C186F13ED891300749C13 /* Debug */,
+				360C187013ED891300749C13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		360C187113ED891300749C13 /* Build configuration list for PBXNativeTarget "Sec3FinalProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				360C187213ED891300749C13 /* Debug */,
+				360C187313ED891300749C13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 360C184113ED891300749C13 /* Project object */;
+}
